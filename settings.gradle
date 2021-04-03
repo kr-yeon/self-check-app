@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "자동 자가진단"

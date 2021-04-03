@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.msub.selfcheck.ui.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/home" />
+
+    <fragment
+        android:id="@+id/clock"
+        android:name="com.msub.selfcheck.ui.ClockFragment"
+        android:label="@string/clock"
+        tools:layout="@layout/clock" />
+
+    <fragment
+        android:id="@+id/push"
+        android:name="com.msub.selfcheck.ui.PushFragment"
+        android:label="@string/push"
+        tools:layout="@layout/push" />
+</navigation>

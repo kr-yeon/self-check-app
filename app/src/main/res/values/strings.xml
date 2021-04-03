@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">자동 자가진단</string>
+    <string name="home">목록</string>
+    <string name="clock">시간</string>
+    <string name="push">추가</string>
+    <string name="clockbtn">시간 설정</string>
+    <string name="lstring">지역 : </string>
+    <string name="sctstring">학교 타입 : </string>
+    <string name="scnstring">학교 이름 : </string>
+    <string name="nastring">이름 : </string>
+    <string name="birstring">생일 : </string>
+    <string name="passtring">비밀번호 : </string>
+    <string name="pushbtn">추가하기</string>
+    <string name="start">시작</string>
+    <string name="quit">종료</string>
+    <string name="del">삭제</string>
+    <string name="cancle">토/일요일에는 끄기</string>
+    <string name="copyright">© 2021. yun all rights reserved.</string>
+    <string name="hint">6자리(YYMMDD)</string>
+</resources>
